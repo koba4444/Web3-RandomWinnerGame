@@ -1,8 +1,8 @@
 Petproject - Decentralized Lottery
+Deployed to:  web3-random-winner-game.vercel.app
 
-Verify Contract Address: 0x397c4da5Db7ecD2646270c24c057C382B89098CD
 
-The contract 0x397c4da5Db7ecD2646270c24c057C382B89098CD has already been verified
+Contract Address: 0x397c4da5Db7ecD2646270c24c057C382B89098CD
 
 ===============================================================
 Subgraph endpoints:
